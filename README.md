@@ -77,7 +77,7 @@
 
 ### 🤝 Connect with me:
 <p align="left">
-<a href="https://linkedin.com/in/Muneeb Munir" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://pk.linkedin.com/in/muneeb-munir-29a3b2377" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://kaggle.com/Muneeb Sulehri" target="blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" /></a>
 <a href="mailto:muneebmunir822@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
