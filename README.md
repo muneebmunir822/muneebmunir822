@@ -1,5 +1,5 @@
 # Hey, I'm Muneeb Munir
-### 📊 Data Analyst & AI Engineer | Generative AI Specialist 🤖
+### 📊 Data Analyst & AI Engineer | Generative AI Specialist
 
 <p align="left"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
